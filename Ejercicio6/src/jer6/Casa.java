@@ -14,6 +14,7 @@ public class Casa {
 		
 		public void limpiarLaCasa() {
 			String mensajito="tu casa ha sido limpiada ";
+
 			System.out.println(mensajito);
 		}
 	
