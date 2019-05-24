@@ -13,7 +13,7 @@ public class Casa {
 		 */
 		
 		public void limpiarLaCasa() {
-			String mensajito="Han  limpiado tu  casa,estás arruinado ";
+			String mensajito="estás arruinado ";
 			System.out.println(mensajito);
 		}
 	
