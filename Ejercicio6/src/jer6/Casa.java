@@ -8,12 +8,12 @@ public class Casa {
 		private int codigoPosta;
 		
 		/**
-		 * Un equipo de limpiadores deja la casa libre de gÈrmenes 
+		 * Un equipo de limpiadores deja la casa libre de g√©rmenes 
 		 * y desinfecta todas las superficies
 		 */
 		
 		public void limpiarLaCasa() {
-			String mensajito="Te hemos limpiado la casa,est·s arruinado ";
+			String mensajito="Han  limpiado tu  casa,est√°s arruinado ";
 			System.out.println(mensajito);
 		}
 	
