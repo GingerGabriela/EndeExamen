@@ -3,6 +3,7 @@ package jer6;
 public class Casa {
 
 
+		private static final String verLimpieza = "tu casa ha sido limpiada ";
 		private float superficie;
 		private String calle;
 		private int codigoPosta;
@@ -13,8 +14,7 @@ public class Casa {
 		 */
 		
 		public void limpiarLaCasa() {
-			String mensajito="tu casa ha sido limpiada ";
-
+			String mensajito=verLimpieza;
 			System.out.println(mensajito);
 		}
 	
